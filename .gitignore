@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Bandit-specific data files
+*.bin
+*.gz
+passwords.txt
