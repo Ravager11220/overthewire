@@ -8,4 +8,4 @@ Learning:
 6. Copying , renamnimg and moving files thorugh terminal
 
 Commands used:
-grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd, mkdir, cp, mv, file, openssl , nmap , nc , s_client
+grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd, mkdir, cp, mv, file, openssl , nmap , nc , openssl s_client
