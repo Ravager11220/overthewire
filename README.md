@@ -1,7 +1,7 @@
 # overthewire
 
 ### bandit.
-# OverTheWire: Bandit (Levels 00 – 30)
+# OverTheWire: Bandit (Levels 00 – 34)
 
 ### Progression & Key Concepts
 * **Levels 00–05 (CLI Fundamentals):** Navigation, file inspection (`file`), wildcards, and handling special filenames (leading `-`, spaces).
