@@ -7,4 +7,4 @@ Learnings:
 5. Brute forcing using scripts and automation
 
 Commands used:
-ssh , nc , cron (among other previous used commands like cat and cd lmao)
+ssh , nc , crontab (among other previous used commands like cat and cd lmao)
