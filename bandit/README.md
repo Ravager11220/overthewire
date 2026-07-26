@@ -3,7 +3,7 @@ This has made me comfortable with the terminal and Linux as well.
 OverTheWire: Bandit (Levels 00 – 34)
 Progression & Key Concepts
 
-    Levels 00–05 (CLI Fundamentals): Navigation, file inspection (file), wildcards, and handling special filenames (leading -, spaces).
+Levels 00–05 (CLI Fundamentals): Navigation, file inspection (file), wildcards, and handling special filenames (leading -, spaces).
     Levels 05–10 (Searching & Filtering): Advanced find constraints (size, permissions), text processing (grep, sort, uniq, strings), and I/O redirection/pipling (|).
     Levels 10–15 (Data Manipulation & Networking): Base64/ROT13 decoding, archivers (tar, gzip, bzip2), hex dumps (xxd), SSH keys, and raw socket connectivity (nc, openssl).
     Levels 15–20 (Services & Privilege Escalation): Port scanning (nmap), encrypted SSL/TLS channeels, file diffing (diff), and foundational SETUID binary behavior.
